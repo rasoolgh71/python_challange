@@ -8,4 +8,4 @@
 * منظور از GIL (Global Interpreter Lock) در پایتون چیست؟
 * تفاوت بین deep copy و shallow copy چیست؟
 *  چطور می‌توان یک دکوراتور نوشت که ورودی و خروجی یک تابع را log کند؟
-* فرق بین mutable و immutable type چیست؟
+* فرق بین mutable و immutab راle type چیست؟
